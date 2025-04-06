@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/eurovision-voting-front/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/eurovision-voting-front/static/js/main.345fbaed.chunk.js",
-    "main.js.map": "/eurovision-voting-front/static/js/main.345fbaed.chunk.js.map",
-    "runtime-main.js": "/eurovision-voting-front/static/js/runtime-main.4a497910.js",
-    "runtime-main.js.map": "/eurovision-voting-front/static/js/runtime-main.4a497910.js.map",
-    "static/js/2.0adeabe3.chunk.js": "/eurovision-voting-front/static/js/2.0adeabe3.chunk.js",
-    "static/js/2.0adeabe3.chunk.js.map": "/eurovision-voting-front/static/js/2.0adeabe3.chunk.js.map",
-    "static/js/3.d9d0b56e.chunk.js": "/eurovision-voting-front/static/js/3.d9d0b56e.chunk.js",
-    "static/js/3.d9d0b56e.chunk.js.map": "/eurovision-voting-front/static/js/3.d9d0b56e.chunk.js.map",
-    "index.html": "/eurovision-voting-front/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/eurovision-voting-front/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.0adeabe3.chunk.js.LICENSE.txt": "/eurovision-voting-front/static/js/2.0adeabe3.chunk.js.LICENSE.txt"
+    "main.css": "/Eurovision/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Eurovision/static/js/main.4b2e5b52.chunk.js",
+    "main.js.map": "/Eurovision/static/js/main.4b2e5b52.chunk.js.map",
+    "runtime-main.js": "/Eurovision/static/js/runtime-main.10ea2e2a.js",
+    "runtime-main.js.map": "/Eurovision/static/js/runtime-main.10ea2e2a.js.map",
+    "static/js/2.eb3aa2c9.chunk.js": "/Eurovision/static/js/2.eb3aa2c9.chunk.js",
+    "static/js/2.eb3aa2c9.chunk.js.map": "/Eurovision/static/js/2.eb3aa2c9.chunk.js.map",
+    "static/js/3.fa9c8ce2.chunk.js": "/Eurovision/static/js/3.fa9c8ce2.chunk.js",
+    "static/js/3.fa9c8ce2.chunk.js.map": "/Eurovision/static/js/3.fa9c8ce2.chunk.js.map",
+    "index.html": "/Eurovision/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Eurovision/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.eb3aa2c9.chunk.js.LICENSE.txt": "/Eurovision/static/js/2.eb3aa2c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4a497910.js",
-    "static/js/2.0adeabe3.chunk.js",
+    "static/js/runtime-main.10ea2e2a.js",
+    "static/js/2.eb3aa2c9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.345fbaed.chunk.js"
+    "static/js/main.4b2e5b52.chunk.js"
   ]
 }
