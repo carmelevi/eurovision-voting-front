@@ -1,6 +1,6 @@
 {
   "name": "eurovision-voting",
-  "homepage": "https://carmelevi.github.io/Eurovision",
+  "homepage": "https://carmelevi.github.io/eurovision-voting-front",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
