@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Eurovision/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Eurovision/static/js/main.4b2e5b52.chunk.js",
-    "main.js.map": "/Eurovision/static/js/main.4b2e5b52.chunk.js.map",
+    "main.js": "/Eurovision/static/js/main.ae09f72a.chunk.js",
+    "main.js.map": "/Eurovision/static/js/main.ae09f72a.chunk.js.map",
     "runtime-main.js": "/Eurovision/static/js/runtime-main.10ea2e2a.js",
     "runtime-main.js.map": "/Eurovision/static/js/runtime-main.10ea2e2a.js.map",
     "static/js/2.eb3aa2c9.chunk.js": "/Eurovision/static/js/2.eb3aa2c9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.10ea2e2a.js",
     "static/js/2.eb3aa2c9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.4b2e5b52.chunk.js"
+    "static/js/main.ae09f72a.chunk.js"
   ]
 }
